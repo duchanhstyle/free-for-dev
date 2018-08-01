@@ -445,7 +445,7 @@ Table of Contents
    * [kanbanery.com](https://kanbanery.com/) — Board based project management. Free for 2 users, premium tiers with more options
    * [zenhub.io](https://zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
    * [trello.com](https://trello.com/) — Board based project management. Free
-   * [producteev.com](https://producteev.com/) — Task management tool. Free, premium version with more options. Mobile applications available
+   * [clickup.com](https://clickup.com/) — Project management service. Free, with paid plan for more storage. Git integration & mobile apps available.
    * [fogcreek.com](http://fogcreek.com/fogbugz/) — Bug tracking and project management. Free for 2 users
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
